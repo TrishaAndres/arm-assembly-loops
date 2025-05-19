@@ -45,4 +45,4 @@ printf syscall or ARM-compatible libc
 
 ## 💡 Want to See a Visual Version?
 
-🔗 See: arm-assembly-visualizer (coming soon)
+🔗 📁 **GitHub Repo:** [https://github.com/TrishaAndres/arm-assembly-visualizer](https://github.com/TrishaAndres/arm-assembly-visualizer)
